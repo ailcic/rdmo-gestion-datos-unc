@@ -49,3 +49,7 @@ rdmo/projects/static/projects/js/interview.js.LICENSE.txt
 rdmo/projects/static/projects/js/projects.js
 rdmo/projects/static/projects/js/projects.js.LICENSE.txt
 screenshots
+
+instancia_unc/config/settings/local.py
+instancia_unc/db.sqlite3
+instancia_unc/log/
